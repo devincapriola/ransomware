@@ -26,5 +26,7 @@ if user_phrase == secretphrase:
 
         with open(file, "wb") as thefile:
             thefile.write(contents_decrypted)
+
+        print("Decrypted file: " + file)
 else:
     print("You entered the wrong phrase.")
