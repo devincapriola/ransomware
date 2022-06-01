@@ -1,22 +1,29 @@
-# python-encrypter
-Python file encrypter using Fernet
+# File Encrypter
+file encrypter made with python
 
-<br/>
+Make sure you have [Python3](https://www.python.org/download/) installed on your operating system.
 
-### Quick Start
+## Quick Start
+
 clone the repository
 ```
 git clone https://github.com/devincapriola/python-encrypter.git
 ```
+
 install the requirements
 ```
 pip install -r requirements.txt
 ```
-run the encrypter
+
+running the encrypter or decrypter
 ```
-python encrypt.py
+python encrypt.py or python decrypt.py
 ```
-run the decrypter
-```
-python decrypt.py
-```
+
+## :handshake: Contributing
+
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/devincapriola/file-encrypter/issues).
+
+## Show your support
+
+Give a :star: if this project helped you!
