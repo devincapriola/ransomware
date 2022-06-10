@@ -1,28 +1,18 @@
-# File Encrypter
-file encrypter made with python
+# Ransomware
+Ransomware made with python
 
+## :package: Download and Setup
 Make sure you have [Python3](https://www.python.org/download/) installed on your operating system.
 
-## Quick Start
+`$ git clone https://github.com/devincapriola/ransomware.git`
 
-clone the repository
-```
-git clone https://github.com/devincapriola/python-encrypter.git
-```
+`$ pip install -r requirements.txt`
 
-install the requirements
-```
-pip install -r requirements.txt
-```
-
-running the encrypter or decrypter
-```
-python encrypt.py or python decrypt.py
-```
+`$ python ransomware.py`
 
 ## :handshake: Contributing
 
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/devincapriola/file-encrypter/issues).
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/devincapriola/ransomware/issues).
 
 ## Show your support
 
